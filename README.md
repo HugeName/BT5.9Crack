@@ -11,8 +11,7 @@ wget https://raw.githubusercontent.com/HugeName/BT5.9Crack/master/btpanel5.9.sh 
 —————————————————————————————————————————
 —————————————————————————————————————————
 
-
-Linux面板5.9（稳定版）安装命令：
+宝塔面板5.9官方稳定版
 
 Centos安装命令：
 
