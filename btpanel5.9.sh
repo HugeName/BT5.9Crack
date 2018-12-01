@@ -19,7 +19,7 @@ yum install unzip -y
 wget -N --no-check-certificate https://raw.githubusercontent.com/HugeName/BT5.9Crack/master/common.zip
 unzip common.zip
 rm common.zip
-rm /root/btpanel.sh
+rm /root/btpanel5.9.sh
 cd /www/server/panel/data
 touch userInfo.json
 echo > userInfo.json
